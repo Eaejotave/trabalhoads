@@ -1,0 +1,84 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: rgb(89, 0, 255);
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #184B44;
+   
+}
+h1 {
+    color: #184B44;
+    font-weight: 900;
+}
+h2 {
+    color: #4b6349;
+}
+
+img{
+    width: 150px;
+    height: 120px;
+    border-radius: 50%;    
+}
+.jao{
+    text-align: center;
+}
+.foto{
+    text-align: center
+}
+footer img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+p{
+    font-size: 16px;
+}
+ul{
+    padding: 16px;
+}
+.paises{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    list-style-type: none;
+    align-items: center;
+}
+.Titulo{
+    padding: 0px 80px;
+}
+.titulo2{
+    padding: 16px;
+}
+footer{
+    text-align: center;
+}
+a :hover{
+    
+    color: #4b6349;
+}
+h3{
+    color: #4b6349;
+}
+.btn{
+    display: flex;
+    padding: 10px 20px;
+    width: 100px;
+    color: #ffffff;
+    background: #4b6349;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+      
+}
+.btn:hover{
+    background: #95da90;
+}
